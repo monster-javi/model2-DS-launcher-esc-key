@@ -116,3 +116,11 @@ If the script is started without a ROM argument, it exits immediately and does n
 ## 🔗 See also
 
 - [crt-arcade-change-resolution](https://github.com/monster-javi/crt-arcade-change-resolution) — one-click resolution switchers for 15 kHz CRT setups, from the same cabinet.
+
+---
+
+<p align="center">
+  If this helped your cabinet and you'd like to support the project, buy me a coffee! ☕
+  <br><br>
+  <a href="https://ko-fi.com/R6R51FQ52H"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" height="36"></a>
+</p>
